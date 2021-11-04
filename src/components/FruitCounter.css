@@ -1,0 +1,20 @@
+.fruit {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 8px 0px;
+    padding: 4px 8px;
+    width: 50%;
+}
+
+.fruit button {
+    margin: 10px;
+    padding: 1px 8px;
+    font-size: 16px;
+    width: auto;
+    border: 2px solid palevioletred;
+    background-color: transparent;
+    border-radius: 4px;
+}
